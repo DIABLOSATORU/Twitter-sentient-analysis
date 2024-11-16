@@ -15,11 +15,10 @@ setup(
     long_description=long_description,
 
 
-    url='https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis',
+    url='https://github.com/DIABLOSATORU/Twitter-sentient-analysis',
 
 
-    author='Muhammad Ali Zia',
-    author_email='muhammad.17ali@gmail.com',
+   
 
 
     classifiers=[
